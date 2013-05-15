@@ -1,4 +1,4 @@
-This is your new Play 2.1 application
-=====================================
+Play 2 Custom Router Test
+========================
 
-This file will be packaged with your application, when using `play dist`.
+Testing a custom router, fileless router for the Play framework. Based on this post: <http://jazzy.id.au/default/2013/05/08/advanced_routing_in_play_framework.html>
